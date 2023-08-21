@@ -12,7 +12,6 @@ This is connected to one TPS5430 board ( https://www.amazon.de/dp/B096FNSJ6Q/ref
 
 # BOM
 Sound PCB
-|---------------------|----------|
 |     Piece           | Quantity |
 |---------------------|----------|
 | Diode 1N4148        |       13 |
@@ -48,7 +47,6 @@ Sound PCB
 
 Arduino MIDI Recieve
 
-|---------------|----------|
 |     Piece     | Quantity |
 |---------------|----------|
 | MIDI female Jack |     1 |
