@@ -12,39 +12,39 @@ This is connected to one TPS5430 board ( https://www.amazon.de/dp/B096FNSJ6Q/ref
 
 # BOM
 Sound PCB
-|---------------|----------|
-|     Piece     | Quantity |
-|---------------|----------|
-| Diode 1N4148  |       13 |
-| 10k           |        4 |
-| 12k           |        4 |
-| 27k           |        5 |
-| 18k           |        2 |
-| 47k           |        4 |
-| 68k           |        8 |
-| 150k          |        4 |
-| 100k          |       17 |
-| 2k2	          |        1 |
-| 1M	          |        2 |
-| 4k7           |        1 |
-| 47nF          |	       5 |
-| 470nF	        |        5 |
-| 15nF	        |        2 |
-| 33nF	        |        2 |
-| 10nF	        |        2 |
-| 150nF	        |        2 |
-| 100nF	        |        1 |
-| 1n5	          |        2 |
-| 4n7	          |        3 |	
-| Trim Poti 1M LIN |	   4 |
-| Poti 500k LIN |	       5 |
-| Poti 1M LIN   |        1 |
-| 100k attenuator pot |	 6 |
-| 100mH	        |        1 |
-| CD4011AE	    |        1 |
-| TL074	        |        2 |
-| 2N3904 Transistor |    3 |
-| DPDT	        |        1 |
+|---------------------|----------|
+|     Piece           | Quantity |
+|---------------------|----------|
+| Diode 1N4148        |       13 |
+| 10k                 |        4 |
+| 12k                 |        4 |
+| 27k                 |        5 |
+| 18k                 |        2 |
+| 47k                 |        4 |
+| 68k                 |        8 |
+| 150k                |        4 |
+| 100k                |       17 |
+| 2k2	              |        1 |
+| 1M	              |        2 |
+| 4k7                 |        1 |
+| 47nF                |	       5 |
+| 470nF	              |        5 |
+| 15nF	              |        2 |
+| 33nF	              |        2 |
+| 10nF	              |        2 |
+| 150nF	              |        2 |
+| 100nF	              |        1 |
+| 1n5	              |        2 |
+| 4n7	              |        3 |	
+| Trim Poti 1M LIN    |	       4 |
+| Poti 500k LIN       |	       5 |
+| Poti 1M LIN         |        1 |
+| 100k attenuator pot |	       6 |
+| 100mH	              |        1 |
+| CD4011AE	      |        1 |
+| TL074	              |        2 |
+| 2N3904 Transistor   |        3 |
+| DPDT	              |        1 |
 
 Arduino MIDI Recieve
 
