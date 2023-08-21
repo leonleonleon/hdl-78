@@ -9,8 +9,8 @@ The main circuit was designed by ehisforadam (https://lookmumnocomputer.discours
 ## The PSU
 Not wanting to work with more than 12V-20V i chose to use some old power adapter that outputs 15V. This is connected to:
 
-- one TPS5430 board https://www.amazon.de/dp/B096FNSJ6Q/ref=pe_27091401_487027711_TE_SCE_3p_dp_2 ) delivering +12V and -12V
-- one conververt board ( https://www.amazon.de/dp/B0B4JG32L5/ref=pe_27091401_487027711_TE_SCE_3p_dp_1 ) delivering +5V.
+- one TPS5430 board delivering +12V and -12V https://www.amazon.de/dp/B096FNSJ6Q/ref=pe_27091401_487027711_TE_SCE_3p_dp_2
+- one conververt board delivering +5V https://www.amazon.de/dp/B0B4JG32L5/ref=pe_27091401_487027711_TE_SCE_3p_dp_1
 
 ## BOM
 
